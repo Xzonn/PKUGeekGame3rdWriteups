@@ -1,18 +1,5 @@
----
-author: Xzonn
-date: 2023-10-20
-license: cc-by-nc 4.0
-title: 第三届北京大学信息安全综合能力竞赛个人题解
----
-``` javascript
-/*!
- * Title: 第三届北京大学信息安全综合能力竞赛个人题解
- * Author: Xzonn
- * Date: 2023-10-20
- * License: CC-BY-NC 4.0
- */
-```
+[第三届北京大学信息安全综合能力竞赛个人题解](https://xzonn.top/posts/PKU-Geek-Game-3rd-Writeups.html)
 
-本来打算做个签到题就走，但是不知不觉就做上瘾了，于是仔细研究了一下。因为真正开始仔细琢磨大概是周二，导致有几个题本来自己也能做出来的，但是拖到了周三晚上六点放提示之后才拿到flag，稍微有点亏。
+![Creative Commons License](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
-因为做题的时候写的代码基本上是“能用就行”，有些中间步骤已经删掉了，写题解的时候重新整理了一遍（主要是改了一些比较随便的命名），所以可能有些错误。
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
